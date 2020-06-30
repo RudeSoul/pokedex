@@ -21,7 +21,6 @@ export default class PokemonList extends Component {
         <PokemonCard />
         <PokemonCard />
         <PokemonCard />
-        <PokemonCard />
       </div>
     );
   }
