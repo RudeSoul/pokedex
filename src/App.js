@@ -2,7 +2,7 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "./App.css";
 import NavBar from "./components/layout/NavBar";
-import Dashbord from "./components/layout/Dashboard";
+// import Dashbord from "./components/layout/Dashboard";
 import Dashboard from "./components/layout/Dashboard";
 
 function App() {
